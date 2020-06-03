@@ -15,10 +15,10 @@
 
 # Directory
 
-'''
+```
 ${ROOT}
 |-- data
 |-- main
 |-- samples
 `-- output
-'''
+```
