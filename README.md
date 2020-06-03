@@ -14,6 +14,7 @@
 [demo.ipynb](samples/demo.ipynb) 학습된 모델을 활용한 Mnist 데이터의 유사도 검출 주피터노트북 파일입니다.
 
 # Directory
+
 '''
 ${ROOT}
 |-- data
